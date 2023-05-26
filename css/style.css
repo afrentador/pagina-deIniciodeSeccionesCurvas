@@ -214,6 +214,7 @@ body{
 /* footer */
 
 .footer__curve{
+    margin-bottom: -2px;
     height: 170px;
     background-image: url(/images/bg-footer-top-desktop.svg);
     background-size: cover;
