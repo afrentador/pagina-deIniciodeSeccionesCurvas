@@ -17,7 +17,7 @@ body{
 /* header */
 
 .container{
-    /* max-width: 1600px; */
+    max-width: 1600px;
     width: 100vw;
     margin: 0 auto;  
     overflow: hidden;
@@ -108,7 +108,7 @@ body{
     flex-direction: column;
 }
 .article__curve_1{
-    height: 250px;
+    height: 160px;
     background-image: url(/images/bg-section-top-desktop-1.svg);
     background-size: cover;
 }
@@ -126,7 +126,7 @@ body{
     padding: 2rem;
 }
 .article__curve_2{
-    height: 240px;
+    height: 155px;
     background-image: url(/images/bg-section-bottom-desktop-1.svg);
     background-size: cover;
 }
@@ -143,7 +143,7 @@ body{
     padding: 2rem;
 }
 .article__curve_3{
-    height: 250px;
+    height: 150px;
     background-image: url(/images/bg-section-top-desktop-2.svg);
     background-size: cover;
 }
@@ -179,7 +179,7 @@ body{
 /* button */
 
 .button__curve{
-    height: 250px;
+    height: 150px;
     background-image: url(/images/bg-section-bottom-desktop-2.svg);
     background-size: cover;
 }
@@ -214,7 +214,7 @@ body{
 /* footer */
 
 .footer__curve{
-    height: 266px;
+    height: 170px;
     background-image: url(/images/bg-footer-top-desktop.svg);
     background-size: cover;
 }
